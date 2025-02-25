@@ -12,7 +12,7 @@ RPC_URL = os.getenv("RPC_URL")
 w3 = Web3(Web3.HTTPProvider(RPC_URL))
 
 if w3.is_connected():
-    print(" Connected to Legion Cryptoqq")
+    print(" Connected to Legion Cryptoqqqqq")
 else:
     print(" Connection failed")
 
